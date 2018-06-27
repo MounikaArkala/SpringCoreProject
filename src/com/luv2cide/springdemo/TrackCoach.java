@@ -28,7 +28,7 @@ public class TrackCoach implements Coach {
     public void doMyCleanupStuffYoYo()
     {
 
-    	System.out.println("TrackCoach: inside method doMyCleanupStuffYoYo, even I want to make a conflict");
+    	System.out.println("TrackCoach: inside method doMyCleanupStuffYoYo,i want to check too");
 
     }
 
