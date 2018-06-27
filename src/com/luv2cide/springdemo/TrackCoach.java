@@ -21,7 +21,7 @@ public class TrackCoach implements Coach {
 	// add an init method
     public void doMyStartupStuff()
     {
-    	System.out.println("TrackCoach: inside method doMyStartupStuff, just to check");
+    	System.out.println("TrackCoach: inside method doMyStartupStuff, juust to check");
     }
 	//add a destroy method
     
