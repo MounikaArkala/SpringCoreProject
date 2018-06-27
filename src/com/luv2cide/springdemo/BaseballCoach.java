@@ -10,7 +10,7 @@ public BaseballCoach(FortuneService fortuneService) {
 
 @Override	
 public String getDailyWorkout() {
-	return "Spend 30 minjutes on batting practice yes";
+	return "Spend 30 minutes on batting practice yes";
 }
 
 @Override
